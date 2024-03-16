@@ -1,0 +1,175 @@
+What Is Ethereum?
+Ethereum is a decentralized global software platform powered by blockchain technology. It is most commonly known for its native cryptocurrency, ether (ETH).
+
+KEY TAKEAWAYS
+Ethereum is a blockchain-based platform best known for its cryptocurrency, ether (ETH).
+The blockchain technology that powers Ethereum enables secure digital ledgers to be publicly created and maintained.
+Bitcoin and Ethereum have many similarities but different long-term visions and limitations.
+Ethereum changed from proof of work to proof of stake in Septemeber 2022.
+1
+Ethereum is the foundation for many emerging technological advances based on blockchain.
+Ethereum founder Joe Lubin explains what it is & why it matters
+Ethereum
+Investopedia / Michela Buttignol
+
+Understanding Ethereum
+Ethereum can be used by anyone to create any secured digital technology. It has a token designed to pay for work done supporting the blockchain, but participants can also use it to pay for tangible goods and services if accepted.
+
+Ethereum is designed to be scalable, programmable, secure, and decentralized. It is the blockchain of choice for developers and enterprises creating technology based upon it to change how many industries operate and how we go about our daily lives.
+
+It natively supports smart contracts, an essential tool behind decentralized applications.
+2
+ Many decentralized finance (DeFi) and other applications use smart contracts in conjunction with blockchain technology.
+
+Take the Next Step to Invest
+Advertiser Disclosure
+
+
+
+Learn more about Ethereum, its token ETH, and how they are an integral part of non-fungible tokens, decentralized finance, decentralized autonomous organizations, and the metaverse.
+
+How Does Ethereum Work?
+Vitalik Buterin, credited with conceiving Ethereum, published a white paper to introduce it in 2014.
+3
+ The Ethereum platform was launched in 2015 by Buterin and Joe Lubin, founder of the blockchain software company ConsenSys.
+4
+5
+
+The founders of Ethereum were among the first to consider the full potential of blockchain technology beyond just enabling the secure virtual payment method.
+
+Since the launch of Ethereum, ether as a cryptocurrency has risen to become the second-largest cryptocurrency by market value. It is outranked only by Bitcoin.
+6
+
+Blockchain Technology
+Ethereum and other Ethereum-based products, like other cryptocurrencies, involve blockchain technology. Imagine a very long chain of blocks. All of the information contained in each block is added to every newly created block with new data. Throughout the network, an identical copy of the blockchain is distributed.
+
+This blockchain is validated by a network of automated programs that reach a consensus on the validity of transaction information. No changes can be made to the blockchain unless the network reaches a consensus. This makes it very secure.
+
+Consensus is reached using an algorithm commonly called a consensus mechanism. Ethereum uses the proof-of-stake algorithm, where a network of participants called validators creates new blocks and works together to verify the information they contain. The blocks contain information about the state of the blockchain, a list of attestations (a validator's signature and vote on the validity of the block), transactions, and much more.
+
+In mid-September 2022, Ethereum officially switched over to a proof-of-stake algorithm, which is cheaper and more environmentally friendly than a proof-of-work model.
+1
+Proof-of-Stake Mechanism
+Proof-of-stake differs from proof-of-work in that it doesn't require the energy-intensive computing referred to as mining to validate blocks. It uses a finalization protocol called Casper-FFG and the algorithm LMD Ghost, combined into a consensus mechanism called Gasper, which monitors consensus and defines how validators receive rewards for work or are punished for dishonesty.
+7
+
+Solo validators must stake 32 ETH to activate their validation ability. Individuals can stake smaller amounts of ETH, but they are required to join a validation pool and share any rewards. A validator creates a new block and attests that the information is valid in a process called attestation, where the block is broadcast to other validators called a committee who verify it and vote for its validity.
+
+Validators who act dishonestly are punished under proof-of-stake. Validators who attempt to attack the network are identified by Gasper, which identifies the blocks to accept and reject based on the votes of the validators.
+7
+
+Dishonest validators are punished by having their staked ETH burned and being removed from the network. Burning refers to sending crypto to a wallet that has no keys, which takes them out of circulation.
+
+Wallets
+Ethereum owners use wallets to store their ether. A wallet is a digital interface that lets you access your ether stored on the blockchain. Your wallet has an address, which is similar to an email address in that it is where users send ether, much like they would an email.
+8
+
+Ether is not actually stored in your wallet. Your wallet holds private keys you use as you would a password when you initiate a transaction. You receive a private key for each ether you own. This key is essential for accessing your ether. That's why you hear so much about securing keys using different storage methods.
+
+Historic Split
+One notable event in Ethereum’s history is the hard fork, or split, of Ethereum and Ethereum Classic.
+9
+ In 2016, a group of network participants gained majority control of the Ethereum blockchain to steal more than $50 million worth of ether, which had been raised for a project called The DAO.
+10
+11
+
+The raid's success was attributed to the involvement of a third-party developer for the new project. Most of the Ethereum community opted to reverse the theft by invalidating the existing Ethereum blockchain and approving a blockchain with a revised history.
+
+However, a fraction of the community chose to maintain the original version of the Ethereum blockchain. That unaltered version of Ethereum permanently split to become the cryptocurrency Ethereum Classic (ETC).
+12
+
+Ethereum vs. Bitcoin
+Ethereum is often compared to Bitcoin. While the two cryptocurrencies have many similarities, there are some some important distinctions.
+
+Ethereum is described by founders and developers as “the world’s programmable blockchain,” positioning itself as an electronic, programmable network with many applications.
+13
+ The Bitcoin blockchain, by contrast, was created only to support the bitcoin cryptocurrency.
+The Ethereum platform was founded with broad ambitions to leverage blockchain technology for many diverse applications. Bitcoin was designed strictly as a payment method.
+
+The maximum number of bitcoins that can enter circulation is 21 million.
+14
+ The amount of ETH that can be created is unlimited, although the time it takes to process a block of ETH limits how much ether can be minted each year.
+15
+ The number of Ethereum coins in circulation as of March 2024 is just over 120 million.
+16
+
+Another significant difference between Ethereum and Bitcoin is how the respective networks treat transaction processing fees. These fees, known as gas on the Ethereum network, are paid by the participants in Ethereum transactions. The fees associated with Bitcoin transactions are absorbed by the broader Bitcoin network.
+
+Ethereum, as of March 2024, uses a proof-of-stake consensus mechanism. Bitcoin uses the energy-intensive proof-of-work consensus, which requires miners to compete for rewards. The consensus mechanism for Ethereum used to be proof-of-work, but this changed in 2022.
+17
+
+The Future of Ethereum
+Ethereum’s transition to the proof-of-stake protocol, which enables users to validate transactions and mint new ETH based on their ether holdings, was part of a significant upgrade to the Ethereum platform. Previously called Eth2, this upgrade is now referred to only as Ethereum. However, Ethereum now has two layers. The first layer is the execution layer, where transactions and validations occur. The second layer is the consensus layer, where attestations and the consensus chain is maintained.
+18
+
+The upgrade added capacity to the Ethereum network to support its growth, which will eventually help to address chronic network congestion problems that have driven up gas fees.
+1
+19
+
+To address scalability, Ethereum is continuing development of "sharding." Sharding will divide the Ethereum database amongst its network. This idea is similar to cloud computing, where many computers handle the workload to reduce computational time. These smaller database sections will be called shards, and shards will be worked on by those who have staked ETH. Shards will allow more validators to work at the same time, reducing the amount of time needed to reach consensus through a process called sharding consensus.
+20
+
+Last, Ethereum publishes a roadmap for future plans. As of March 2024, there were four primary categories listed for future work to come on the network. Those changes would push for:
+
+Cheaper transactions. Ethereum notes that rollups are too expensive and force users to place too much trust in their operators.
+Extra security. Ethereum notes it wants to be prepared for future types of attacks.
+Better user experiences. Ethereum notes wanting better support for smart contracts and light-weight nodes.
+Future proofing. Ethereum notes wanting to proactively solve problems that have yet to really come up yet. 
+21
+Web3
+Web3 is still a concept, but it is generally theorized that it will be powered by Ethereum because many of the applications being developed use it.
+22
+
+Use in Gaming
+Ethereum is also being implemented into gaming and virtual reality. Decentraland is a virtual world that uses the Ethereum blockchain to secure items contained within that world. Land, avatars, wearables, buildings, and environments are all tokenized through the blockchain to create ownership.
+23
+
+Axie Infinity is another game that uses blockchain technology and has its own cryptocurrency called Smooth Love Potion (SLP), used for rewards and transactions within the game.
+24
+25
+
+Non-Fungible Tokens
+Non-fungible tokens (NFTs) gained popularity in 2021. NFTs are tokenized digital items created using Ethereum.
+26
+ Generally speaking, tokenization gives one digital asset a specific digital token that identifies it and stores it on the blockchain.
+
+This establishes ownership because the encrypted data stores the owner's wallet address. The NFT can be traded or sold and is viewed as a transaction on the blockchain. The transaction is verified by the network and ownership is transferred.
+
+NFTs are being developed for all sorts of assets. For example, sports fans can buy a sports token—also called fan tokens—of their favorite athletes, which can be treated like trading cards. Some of these NFTs are pictures that resemble a trading card, and some of them are videos of a memorable or historic moment in the athlete's career.
+
+The applications you may use in the metaverse, such as your wallet, a dApp, or the virtual world and buildings you visit, are likely to have been built on Ethereum.
+
+The Development of DAOs
+Decentralized Autonomous Organizations (DAOs), which are a collaborative method for making decisions across a distributed network, are being developed.
+27
+
+For example, imagine that you created a venture capital fund and raised money through fund-raising, but you want decision-making to be decentralized and distributions to be automatic and transparent.
+
+A DAO could use smart contracts and applications to gather the votes from the fund members and buy into ventures based on the majority of the group's votes, then automatically distribute any returns. The transactions could be viewed by all parties, and there would be no third-party involvement in handling any funds.
+
+The part that cryptocurrency will play in the future is still vague. However, Ethereum appears to have a significant, upcoming role in personal and corporate finance and many aspects of our modern lives.
+How Can I Buy Ethereum?
+Investors can use one of the best cryptocurrency exchange platforms to buy and sell ether. Ethereum is supported by dedicated crypto exchanges, including Coinbase, Kraken, Gemini, Binance, and brokerages like Robinhood.
+28
+
+How Does Ethereum Make Money?
+Ethereum is not a centralized organization that makes money. Validators who participate in the Ethereum network earn ETH rewards for their contributions.
+29
+
+Is Ethereum a Good Investment?
+As with any investment, the answer to that depends on your financial objectives, goals, and risk tolerance. The cryptocurrency ETH can be volatile, putting capital at risk. However, it is certainly worth researching as an investment because the various existing and emerging innovative technologies that use Ethereum may assume larger roles in our society in the future. Consider taking a cryptocurrency trading course to help you set up the right investment strategies.
+
+Is Ethereum a Cryptocurrency?
+The Ethereum platform has a native cryptocurrency, known as ether, or ETH. Ethereum itself is a blockchain technology platform that supports a wide range of decentralized applications (dApps), including cryptocurrencies. The ETH coin is commonly called Ethereum, although the distinction remains that Ethereum is a blockchain-powered platform, and ether is its cryptocurrency.
+30
+
+Can Ethereum Be Converted to Cash?
+Yes. Investors who hold the cryptocurrency ETH can use online exchanges such as Coinbase, Kraken, and Gemini for this process. Just set up an account at the exchange, link a bank account, and send ETH to the exchange account from an Ethereum wallet. Place an order on the exchange to sell ETH. Then, once sold, transfer the U.S. dollar proceeds to the linked bank account.
+
+The Bottom Line
+Ethereum is a decentralized blockchain platform. It enables developers to build and deploy smart contracts. Ethereum utilizes its native cryptocurrency, Ether (ETH), for transactions and incentivizing network participants to secure the network through a proof of stake (PoS) consensus mechanism.
+Investing in cryptocurrencies and initial coin offerings (ICOs) is highly risky and speculative, and this article is not a recommendation by Investopedia or the writer to invest in cryptocurrencies or ICOs. Since each individual’s situation is unique, a qualified professional should always be consulted before making any financial decisions. Investopedia makes no representations or warranties as to the accuracy or timeliness of the information contained herein.
+
+SPONSORED
+High Interest Rates Are a Boon for Income Investing
+For income-focused investors looking beyond treasury bills and high-yield savings, the Fundrise Income Fund offers a portfolio of $500M+ worth of cash-flowing assets aimed at producing strong quarterly dividends. Interested in investing? Learn more at Fundrise.com/Income. Before investing, consider the Fund's objectives, risks, charges, and expenses. Prospectus available at Fundrise.com/Income.
